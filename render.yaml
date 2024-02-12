@@ -3,7 +3,7 @@ services:
     name: mongodb
     env: docker
     region: ohio
-    plan: free
+    plan: started
     autoDeploy: false
     disk:
       name: data
